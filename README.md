@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project tests the implementation of widgets, and how it operates in React.
+
 ## Available Scripts
 
 In the project directory, you can run:
